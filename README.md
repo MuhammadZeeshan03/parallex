@@ -14,4 +14,4 @@ pnpm dev
 bun dev
 ```
 
-A basic layout for parallex effect in react!
+A basic layout for parallex effect in react using react-parallex library!
